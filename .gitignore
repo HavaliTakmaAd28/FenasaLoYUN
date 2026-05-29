@@ -1,0 +1,14 @@
+# Unreal Engine geçici klasörleri
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Kişisel ayarlar
+.vs/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
